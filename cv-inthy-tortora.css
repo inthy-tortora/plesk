@@ -1,0 +1,354 @@
+
+.ban{
+    position: relative;
+}
+.ban::before,
+.ban::after{
+    position: absolute;
+    right: 0;
+    content: '';
+    width: 255px;
+    height: 750px;
+    background: lightblue;
+    border-radius: 0px 0px 150px 150px;
+}
+
+.text-over {
+    position:absolute;
+     right: 14%;
+     left: 83%;
+     top: 40%;
+}
+.text-over2 {
+    position: absolute;
+    right: 13%;
+    left: 84%;
+    top: 48%;
+}
+.text-over3 {
+    position: absolute;
+    right: 13%;
+    left: 84%;
+    top: 52%;
+}
+
+.text-over4 {
+    position: absolute;
+    right: 12%;
+    left: 84%;
+    top: 56%;
+}
+
+.text-over5 {
+    position: absolute;
+    right: 13%;
+    left: 84%;
+    top: 60%;
+}
+
+.text-over6 {
+    position: absolute;
+    right: 12%;
+    left: 83%;
+    top: 64%;
+}
+.text-over7 {
+    position: absolute;
+    right: 14%;
+    left: 84%;
+    top: 72%;
+}
+.text-over8 {
+    position: absolute;
+    right: 14%;
+    left: 84%;
+    top: 76%;
+}
+
+.text-over9 {
+    position: absolute;
+    right: 14%;
+    left: 84%;
+    top: 80%;
+}
+
+.text-over10 {
+    position: absolute;
+    right: 14%;
+    left: 84%;
+    top: 84%;
+}
+
+.text {
+    position: absolute;
+    right: 9%;
+    left: 83%;
+    top: 1%;
+
+}
+
+.text1 {
+    position: absolute;
+    right: 13%;
+    left: 83%;
+    top: 8%;
+    font-weight: bold;
+}
+
+.text2 {
+    position: absolute;
+    right: 6%;
+    left: 83%;
+    top: 12%;
+    font-size: small;
+}
+
+.text3 {
+    position: absolute;
+    right: 14%;
+    left: 83%;
+    top: 16%;
+    font-weight: bold;
+}
+
+.text4 {
+    position: absolute;
+    right: 6%;
+    left: 83%;
+    top: 20%;
+    font-size: small;
+}
+
+.text5 {
+    position: absolute;
+    right: 5%;
+    left: 83%;
+    top: 26%;
+    font-weight: bold;
+}
+
+.text6 {
+    position: absolute;
+    right: 6%;
+    left: 83%;
+    top: 30%;
+    font-size: small;
+}
+
+.text7 {
+    position: absolute;
+    right: 14%;
+    left: 83%;
+    top: 34%;
+    font-weight: bold;
+}
+
+.text8 {
+    position: absolute;
+    right: 6%;
+    left: 83%;
+    top: 38%;
+    font-size: small;
+}
+
+.T {
+    position: absolute;
+    left: 5%;
+}
+
+.T2 {
+    position: absolute;
+    left: 6%;
+    top: 9%;
+}
+
+.T3 {
+    position: absolute;
+    left: 7%;
+    top: 12%;
+}
+
+.l1 {
+    position: absolute;
+    content: '';
+    top: 8%;
+    right: 10%;
+    left: 83%;
+    width: 200px;
+    height: 4px;
+    border-radius: 2px 2px 2px 2px;
+    background: gray;
+}
+
+.l2 {
+    position: absolute;
+    content: '';
+    top: 47%;
+    right: 10%;
+    left: 83%;
+    width: 200px;
+    height: 4px;
+    border-radius: 2px 2px 2px 2px;
+    background: gray;
+}
+
+.l3 {
+    position: absolute;
+    content: '';
+    top: 71%;
+    right: 10%;
+    left: 83%;
+    width: 200px;
+    height: 4px;
+    border-radius: 2px 2px 2px 2px;
+    background: gray;
+}
+
+.E {
+    position: absolute;
+    top: 16%;
+    left: 5%;
+}
+.E2 {
+    position: absolute;
+    top: 24%;
+    left: 25%;
+}
+
+.E3 {
+    position: absolute;
+    top: 24%;
+    font-size: small;
+}
+
+.E4 {
+    position: absolute;
+    top: 34%;
+    left: 25%;
+}
+
+.E5 {
+    position: absolute;
+    top: 34%;
+    font-size: small;
+}
+
+.X {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
+
+.X2 {
+    position: absolute;
+    top: 58%;
+    left: 25%;
+}
+
+.X3 {
+    position: absolute;
+    top: 62%;
+    left: 25%;
+    font-size: small;
+}
+
+.X4 {
+    position: absolute;
+    top: 58%;
+    font-size: small;
+
+}
+
+.X5 {
+    position: absolute;
+    top: 70%;
+    left: 25%;
+}
+
+.X6 {
+    position: absolute;
+    top: 74%;
+    left: 25%;
+    font-size: small;
+}
+
+.X7 {
+    position: absolute;
+    top: 70%;
+    font-size: small;
+}
+
+.X8 {
+    position: absolute;
+    top: 82%;
+    left: 25%;
+}
+
+.X9 {
+    position: absolute;
+    top: 86%;
+    left: 25%;
+    font-size: small;
+}
+
+.X10 {
+    position: absolute;
+    top: 82%;
+    font-size: small;
+}
+
+.l4 {
+    position: absolute;
+    content: '';
+    left: 5%;
+    top: 18%;
+    width: 850px;
+    height: 4px;
+    border-radius: 2px 2px 2px 2px;
+    background: gray;
+}
+
+.l5 {
+    position: absolute;
+    content: '';
+    left: 5%;
+    top: 57%;
+    width: 850px;
+    height: 4px;
+    border-radius: 2px 2px 2px 2px;
+    background: gray;
+}
+
+.l6 {
+    position: absolute;
+    content: '';
+    left: 22%;
+    top: 22%;
+    width: 4px;
+    height: 200px;
+    border-radius: 2px 2px 2px 2px;
+    background: gray;
+}
+.l7 {
+    position: absolute;
+    content: '';
+    left: 22%;
+    top: 60%;
+    width: 4px;
+    height: 200px;
+    border-radius: 2px 2px 2px 2px;
+    background: gray;
+}
+
+.img {
+    position: absolute;
+    right: 25%;
+    top: 10%;
+}
+
+.head{
+    font-family: 'Noto Serif Oriya', serif;
+}
+.body {
+    font-family: 'Noto Serif Oriya', serif;
+}
